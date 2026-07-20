@@ -1,0 +1,151 @@
+patient_id,age,diagnosis,medications,lab_result,previous_admissions,length_of_stay,discharge_summary,target
+P1000,78,Hypertension,11,144.9,3,10,Patient discharged with shortness of breath. History of hypertension and requires close monitoring.,1
+P1001,72,Kidney Disease,8,296.05,5,11,Patient discharged with recurrent infection. History of kidney disease and requires close monitoring.,1
+P1002,57,Stroke,11,267.12,2,1,Patient discharged with recurrent infection. History of stroke and requires close monitoring.,1
+P1003,77,COPD,5,193.14,6,2,Patient discharged with poor follow-up. History of copd and requires close monitoring.,1
+P1004,77,Diabetes,8,161.73,0,9,Patient discharged with recurrent infection. History of diabetes and requires close monitoring.,0
+P1005,52,COPD,6,267.41,0,5,Patient discharged with elevated glucose. History of copd and requires close monitoring.,0
+P1006,64,Liver Disease,8,102.26,2,10,Patient discharged with good recovery. Recovery progressing well after treatment for liver disease.,0
+P1007,80,COPD,8,226.91,6,12,Patient discharged with poor follow-up. History of copd and requires close monitoring.,1
+P1008,86,Liver Disease,11,174.77,2,15,Patient discharged with unstable condition. History of liver disease and requires close monitoring.,1
+P1009,52,Diabetes,7,117.66,0,14,Patient discharged with improved vitals. Recovery progressing well after treatment for diabetes.,0
+P1010,71,COPD,7,226.85,4,14,Patient discharged with renal complications. History of copd and requires close monitoring.,1
+P1011,40,Asthma,7,294.62,0,13,Patient discharged with poor follow-up. History of asthma and requires close monitoring.,1
+P1012,79,Diabetes,11,148.69,0,2,Patient discharged with elevated glucose. History of diabetes and requires close monitoring.,1
+P1013,70,Heart Failure,8,116.2,4,13,Patient discharged with shortness of breath. History of heart failure and requires close monitoring.,1
+P1014,86,Cancer,7,194.96,2,14,Patient discharged with unstable condition. History of cancer and requires close monitoring.,1
+P1015,85,Liver Disease,1,285.8,6,4,Patient discharged with renal complications. History of liver disease and requires close monitoring.,0
+P1016,44,Asthma,12,230.31,0,1,Patient discharged with renal complications. History of asthma and requires close monitoring.,0
+P1017,25,Pneumonia,10,180.61,3,2,Patient discharged with recurrent infection. History of pneumonia and requires close monitoring.,0
+P1018,84,Kidney Disease,12,138.77,4,9,Patient discharged with shortness of breath. History of kidney disease and requires close monitoring.,0
+P1019,37,Diabetes,1,149.71,6,6,Patient discharged with renal complications. History of diabetes and requires close monitoring.,0
+P1020,36,Stroke,10,158.92,5,15,Patient discharged with recurrent infection. History of stroke and requires close monitoring.,1
+P1021,40,Diabetes,6,103.11,4,2,Patient discharged with recurrent infection. History of diabetes and requires close monitoring.,1
+P1022,46,Stroke,5,279.73,3,10,Patient discharged with shortness of breath. History of stroke and requires close monitoring.,1
+P1023,76,Hypertension,1,171.23,2,6,Patient discharged with renal complications. History of hypertension and requires close monitoring.,1
+P1024,45,Hypertension,9,263.31,6,2,Patient discharged with elevated glucose. History of hypertension and requires close monitoring.,1
+P1025,44,Cancer,12,124.49,1,6,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,1
+P1026,45,Stroke,5,158.43,5,5,Patient discharged with poor follow-up. History of stroke and requires close monitoring.,1
+P1027,30,Kidney Disease,2,118.36,1,11,Patient discharged with follow-up scheduled. Recovery progressing well after treatment for kidney disease.,0
+P1028,51,Stroke,3,114.96,6,6,Patient discharged with renal complications. History of stroke and requires close monitoring.,1
+P1029,45,Heart Failure,10,90.53,3,7,Patient discharged with renal complications. History of heart failure and requires close monitoring.,1
+P1030,28,Cancer,8,93.34,1,9,Patient discharged with stable condition. Recovery progressing well after treatment for cancer.,0
+P1031,70,COPD,5,273.08,6,10,Patient discharged with renal complications. History of copd and requires close monitoring.,1
+P1032,81,Pneumonia,2,152.17,2,3,Patient discharged with unstable condition. History of pneumonia and requires close monitoring.,1
+P1033,35,Diabetes,11,194.4,4,9,Patient discharged with poor follow-up. History of diabetes and requires close monitoring.,1
+P1034,33,Kidney Disease,4,184.52,0,11,Patient discharged with shortness of breath. History of kidney disease and requires close monitoring.,1
+P1035,49,Kidney Disease,8,246.61,2,5,Patient discharged with renal complications. History of kidney disease and requires close monitoring.,1
+P1036,77,COPD,6,242.68,1,11,Patient discharged with unstable condition. History of copd and requires close monitoring.,1
+P1037,41,Pneumonia,5,197.23,6,10,Patient discharged with recurrent infection. History of pneumonia and requires close monitoring.,1
+P1038,38,Asthma,12,151.76,5,15,Patient discharged with elevated glucose. History of asthma and requires close monitoring.,1
+P1039,72,Heart Failure,11,99.04,4,4,Patient discharged with shortness of breath. History of heart failure and requires close monitoring.,1
+P1040,48,Stroke,3,206.73,0,5,Patient discharged with shortness of breath. History of stroke and requires close monitoring.,1
+P1041,90,Asthma,4,245.21,2,3,Patient discharged with shortness of breath. History of asthma and requires close monitoring.,1
+P1042,77,Heart Failure,3,203.85,5,13,Patient discharged with recurrent infection. History of heart failure and requires close monitoring.,1
+P1043,81,Cancer,9,280.5,3,13,Patient discharged with renal complications. History of cancer and requires close monitoring.,1
+P1044,78,Asthma,6,184.51,6,1,Patient discharged with unstable condition. History of asthma and requires close monitoring.,1
+P1045,90,Diabetes,3,229.33,2,9,Patient discharged with shortness of breath. History of diabetes and requires close monitoring.,1
+P1046,73,Pneumonia,12,271.91,6,11,Patient discharged with poor follow-up. History of pneumonia and requires close monitoring.,1
+P1047,66,Kidney Disease,8,180.73,2,3,Patient discharged with unstable condition. History of kidney disease and requires close monitoring.,1
+P1048,38,Liver Disease,3,237.89,4,6,Patient discharged with poor follow-up. History of liver disease and requires close monitoring.,1
+P1049,44,Hypertension,7,153.26,6,1,Patient discharged with unstable condition. History of hypertension and requires close monitoring.,1
+P1050,59,Kidney Disease,4,82.0,3,6,Patient discharged with renal complications. History of kidney disease and requires close monitoring.,1
+P1051,33,Cancer,9,150.99,5,6,Patient discharged with elevated glucose. History of cancer and requires close monitoring.,0
+P1052,34,Diabetes,7,242.99,1,14,Patient discharged with shortness of breath. History of diabetes and requires close monitoring.,1
+P1053,26,Liver Disease,2,128.9,0,10,Patient discharged with improved vitals. Recovery progressing well after treatment for liver disease.,0
+P1054,60,Diabetes,11,201.15,1,1,Patient discharged with poor follow-up. History of diabetes and requires close monitoring.,1
+P1055,81,Pneumonia,7,100.18,5,8,Patient discharged with poor follow-up. History of pneumonia and requires close monitoring.,1
+P1056,40,Liver Disease,8,80.33,2,9,Patient discharged with improved vitals. Recovery progressing well after treatment for liver disease.,0
+P1057,82,Heart Failure,12,89.74,2,2,Patient discharged with poor follow-up. History of heart failure and requires close monitoring.,0
+P1058,27,Stroke,1,147.31,2,13,Patient discharged with improved vitals. Recovery progressing well after treatment for stroke.,0
+P1059,71,Diabetes,4,115.34,5,2,Patient discharged with renal complications. History of diabetes and requires close monitoring.,1
+P1060,56,Pneumonia,7,142.51,4,6,Patient discharged with elevated glucose. History of pneumonia and requires close monitoring.,1
+P1061,27,Kidney Disease,12,119.98,1,11,Patient discharged with renal complications. History of kidney disease and requires close monitoring.,0
+P1062,25,Kidney Disease,2,100.22,2,8,Patient discharged with good recovery. Recovery progressing well after treatment for kidney disease.,0
+P1063,68,Heart Failure,7,132.02,2,4,Patient discharged with good recovery. Recovery progressing well after treatment for heart failure.,0
+P1064,61,Cancer,6,256.92,3,11,Patient discharged with elevated glucose. History of cancer and requires close monitoring.,1
+P1065,40,Pneumonia,2,133.17,3,10,Patient discharged with renal complications. History of pneumonia and requires close monitoring.,0
+P1066,90,Stroke,1,194.35,1,4,Patient discharged with unstable condition. History of stroke and requires close monitoring.,1
+P1067,82,Cancer,11,109.87,5,12,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,1
+P1068,90,Kidney Disease,7,252.78,5,1,Patient discharged with elevated glucose. History of kidney disease and requires close monitoring.,1
+P1069,33,COPD,2,208.77,6,2,Patient discharged with renal complications. History of copd and requires close monitoring.,0
+P1070,82,Cancer,6,214.07,1,6,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,1
+P1071,34,Liver Disease,9,116.89,5,5,Patient discharged with renal complications. History of liver disease and requires close monitoring.,1
+P1072,37,Pneumonia,5,151.25,0,9,Patient discharged with normal glucose. Recovery progressing well after treatment for pneumonia.,0
+P1073,83,Diabetes,7,80.23,3,11,Patient discharged with renal complications. History of diabetes and requires close monitoring.,0
+P1074,51,COPD,10,296.85,4,4,Patient discharged with renal complications. History of copd and requires close monitoring.,0
+P1075,84,Cancer,6,162.6,2,14,Patient discharged with renal complications. History of cancer and requires close monitoring.,0
+P1076,63,Diabetes,10,204.19,2,3,Patient discharged with elevated glucose. History of diabetes and requires close monitoring.,1
+P1077,44,Kidney Disease,4,173.28,3,12,Patient discharged with renal complications. History of kidney disease and requires close monitoring.,1
+P1078,77,COPD,1,150.15,4,1,Patient discharged with renal complications. History of copd and requires close monitoring.,0
+P1079,86,Cancer,9,285.97,0,14,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,1
+P1080,86,Pneumonia,12,271.11,0,10,Patient discharged with renal complications. History of pneumonia and requires close monitoring.,1
+P1081,36,Heart Failure,9,202.86,0,10,Patient discharged with recurrent infection. History of heart failure and requires close monitoring.,1
+P1082,87,Stroke,1,254.66,0,5,Patient discharged with unstable condition. History of stroke and requires close monitoring.,1
+P1083,88,Hypertension,7,275.14,6,13,Patient discharged with poor follow-up. History of hypertension and requires close monitoring.,1
+P1084,36,Hypertension,9,145.06,4,8,Patient discharged with elevated glucose. History of hypertension and requires close monitoring.,0
+P1085,90,Pneumonia,3,231.8,2,9,Patient discharged with renal complications. History of pneumonia and requires close monitoring.,1
+P1086,45,Diabetes,3,200.74,4,3,Patient discharged with unstable condition. History of diabetes and requires close monitoring.,1
+P1087,48,Liver Disease,12,245.03,5,6,Patient discharged with renal complications. History of liver disease and requires close monitoring.,0
+P1088,64,Heart Failure,8,247.98,4,4,Patient discharged with unstable condition. History of heart failure and requires close monitoring.,1
+P1089,46,Asthma,6,189.85,5,2,Patient discharged with renal complications. History of asthma and requires close monitoring.,0
+P1090,63,Pneumonia,2,100.77,3,13,Patient discharged with recurrent infection. History of pneumonia and requires close monitoring.,1
+P1091,42,Cancer,10,180.05,5,11,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,1
+P1092,46,Pneumonia,11,261.73,6,10,Patient discharged with unstable condition. History of pneumonia and requires close monitoring.,1
+P1093,87,Diabetes,5,193.37,4,5,Patient discharged with recurrent infection. History of diabetes and requires close monitoring.,1
+P1094,48,Stroke,9,206.04,0,4,Patient discharged with recurrent infection. History of stroke and requires close monitoring.,0
+P1095,87,Kidney Disease,10,119.68,4,13,Patient discharged with unstable condition. History of kidney disease and requires close monitoring.,1
+P1096,38,COPD,2,129.04,5,13,Patient discharged with renal complications. History of copd and requires close monitoring.,0
+P1097,72,Asthma,8,207.57,5,7,Patient discharged with elevated glucose. History of asthma and requires close monitoring.,1
+P1098,56,Pneumonia,9,106.81,2,1,Patient discharged with unstable condition. History of pneumonia and requires close monitoring.,1
+P1099,53,Kidney Disease,9,168.47,3,11,Patient discharged with poor follow-up. History of kidney disease and requires close monitoring.,1
+P1100,58,Asthma,10,218.55,0,6,Patient discharged with poor follow-up. History of asthma and requires close monitoring.,1
+P1101,37,Kidney Disease,5,200.72,5,12,Patient discharged with shortness of breath. History of kidney disease and requires close monitoring.,1
+P1102,31,Heart Failure,12,143.84,4,11,Patient discharged with recurrent infection. History of heart failure and requires close monitoring.,1
+P1103,47,Heart Failure,7,259.53,2,3,Patient discharged with unstable condition. History of heart failure and requires close monitoring.,1
+P1104,84,Liver Disease,3,167.73,2,1,Patient discharged with poor follow-up. History of liver disease and requires close monitoring.,1
+P1105,34,COPD,4,90.84,2,8,Patient discharged with discharged safely. Recovery progressing well after treatment for copd.,0
+P1106,72,Kidney Disease,11,215.84,1,10,Patient discharged with recurrent infection. History of kidney disease and requires close monitoring.,1
+P1107,57,Heart Failure,4,281.01,4,8,Patient discharged with renal complications. History of heart failure and requires close monitoring.,1
+P1108,29,Asthma,6,114.46,0,9,Patient discharged with improved vitals. Recovery progressing well after treatment for asthma.,0
+P1109,59,Stroke,5,235.38,6,1,Patient discharged with shortness of breath. History of stroke and requires close monitoring.,1
+P1110,45,Cancer,10,120.6,0,2,Patient discharged with elevated glucose. History of cancer and requires close monitoring.,1
+P1111,71,Hypertension,10,182.39,5,6,Patient discharged with poor follow-up. History of hypertension and requires close monitoring.,1
+P1112,70,Kidney Disease,12,103.4,5,5,Patient discharged with recurrent infection. History of kidney disease and requires close monitoring.,1
+P1113,78,Heart Failure,9,85.72,0,7,Patient discharged with poor follow-up. History of heart failure and requires close monitoring.,1
+P1114,90,Cancer,6,282.51,2,1,Patient discharged with poor follow-up. History of cancer and requires close monitoring.,0
+P1115,53,Pneumonia,3,123.04,2,3,Patient discharged with normal glucose. Recovery progressing well after treatment for pneumonia.,1
+P1116,86,Kidney Disease,1,175.39,3,1,Patient discharged with shortness of breath. History of kidney disease and requires close monitoring.,1
+P1117,74,Kidney Disease,4,240.51,4,13,Patient discharged with shortness of breath. History of kidney disease and requires close monitoring.,1
+P1118,33,Kidney Disease,1,249.16,3,7,Patient discharged with recurrent infection. History of kidney disease and requires close monitoring.,0
+P1119,48,Asthma,10,165.27,1,10,Patient discharged with shortness of breath. History of asthma and requires close monitoring.,1
+P1120,83,Asthma,8,172.32,4,11,Patient discharged with unstable condition. History of asthma and requires close monitoring.,1
+P1121,82,Diabetes,1,241.21,3,11,Patient discharged with poor follow-up. History of diabetes and requires close monitoring.,0
+P1122,77,Diabetes,10,116.88,4,8,Patient discharged with poor follow-up. History of diabetes and requires close monitoring.,1
+P1123,81,Kidney Disease,10,152.39,0,11,Patient discharged with unstable condition. History of kidney disease and requires close monitoring.,1
+P1124,36,COPD,4,240.34,5,3,Patient discharged with elevated glucose. History of copd and requires close monitoring.,1
+P1125,37,Pneumonia,5,140.51,6,7,Patient discharged with unstable condition. History of pneumonia and requires close monitoring.,1
+P1126,53,Stroke,8,137.32,3,8,Patient discharged with shortness of breath. History of stroke and requires close monitoring.,1
+P1127,30,Hypertension,6,87.71,6,11,Patient discharged with recurrent infection. History of hypertension and requires close monitoring.,1
+P1128,77,Liver Disease,11,217.18,4,2,Patient discharged with elevated glucose. History of liver disease and requires close monitoring.,1
+P1129,38,Pneumonia,9,260.71,6,12,Patient discharged with elevated glucose. History of pneumonia and requires close monitoring.,0
+P1130,32,Liver Disease,12,116.9,5,13,Patient discharged with elevated glucose. History of liver disease and requires close monitoring.,0
+P1131,52,Hypertension,4,290.49,4,5,Patient discharged with shortness of breath. History of hypertension and requires close monitoring.,1
+P1132,70,Diabetes,8,180.56,5,9,Patient discharged with recurrent infection. History of diabetes and requires close monitoring.,1
+P1133,75,Liver Disease,10,118.32,1,7,Patient discharged with elevated glucose. History of liver disease and requires close monitoring.,1
+P1134,73,Asthma,3,257.6,2,12,Patient discharged with renal complications. History of asthma and requires close monitoring.,1
+P1135,49,Pneumonia,10,271.37,4,7,Patient discharged with unstable condition. History of pneumonia and requires close monitoring.,1
+P1136,37,Diabetes,9,131.11,3,9,Patient discharged with unstable condition. History of diabetes and requires close monitoring.,1
+P1137,62,Heart Failure,6,276.02,4,4,Patient discharged with elevated glucose. History of heart failure and requires close monitoring.,1
+P1138,72,Pneumonia,7,129.39,0,5,Patient discharged with poor follow-up. History of pneumonia and requires close monitoring.,1
+P1139,31,Cancer,6,244.1,5,15,Patient discharged with recurrent infection. History of cancer and requires close monitoring.,1
+P1140,48,Kidney Disease,8,224.74,4,10,Patient discharged with renal complications. History of kidney disease and requires close monitoring.,1
+P1141,81,Diabetes,9,111.12,5,9,Patient discharged with poor follow-up. History of diabetes and requires close monitoring.,0
+P1142,29,Kidney Disease,8,270.89,6,12,Patient discharged with recurrent infection. History of kidney disease and requires close monitoring.,1
+P1143,33,Hypertension,10,296.91,1,2,Patient discharged with unstable condition. History of hypertension and requires close monitoring.,1
+P1144,64,Asthma,5,256.7,5,4,Patient discharged with renal complications. History of asthma and requires close monitoring.,1
+P1145,61,Liver Disease,5,284.27,3,5,Patient discharged with recurrent infection. History of liver disease and requires close monitoring.,0
+P1146,86,Kidney Disease,3,135.5,1,13,Patient discharged with poor follow-up. History of kidney disease and requires close monitoring.,1
+P1147,53,COPD,12,226.82,1,12,Patient discharged with poor follow-up. History of copd and requires close monitoring.,0
+P1148,57,Hypertension,8,226.36,0,5,Patient discharged with elevated glucose. History of hypertension and requires close monitoring.,0
+P1149,32,Hypertension,7,282.26,2,14,Patient discharged with elevated glucose. History of hypertension and requires close monitoring.,1

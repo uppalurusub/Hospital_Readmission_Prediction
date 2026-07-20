@@ -1,0 +1,131 @@
+patient_id,age,diagnosis,medications,lab_result,previous_admissions,length_of_stay,discharge_summary,target
+T2000,83,COPD,6,293.96,1,4,Patient discharged with poor medication adherence. History of copd requiring close monitoring and early follow-up.,0
+T2001,66,Cancer,9,262.7,5,2,Patient discharged with shortness of breath. History of cancer requiring close monitoring and early follow-up.,1
+T2002,72,Cancer,12,277.06,5,17,Patient discharged with shortness of breath. History of cancer requiring close monitoring and early follow-up.,0
+T2003,64,Hypertension,9,131.77,5,11,Patient discharged with shortness of breath. History of hypertension requiring close monitoring and early follow-up.,1
+T2004,63,Cancer,9,213.2,3,8,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,1
+T2005,74,Kidney Disease,5,296.72,1,4,Patient discharged with shortness of breath. History of kidney disease requiring close monitoring and early follow-up.,1
+T2006,45,COPD,14,152.37,0,5,Patient discharged with renal complications. History of copd requiring close monitoring and early follow-up.,1
+T2007,40,Kidney Disease,2,304.32,0,4,Patient discharged with poor medication adherence. History of kidney disease requiring close monitoring and early follow-up.,1
+T2008,81,Pneumonia,11,167.6,1,18,Patient discharged with poor medication adherence. History of pneumonia requiring close monitoring and early follow-up.,1
+T2009,58,Stroke,9,291.53,5,7,Patient discharged with unstable vitals. History of stroke requiring close monitoring and early follow-up.,1
+T2010,38,Pneumonia,7,136.17,3,4,Patient discharged with renal complications. History of pneumonia requiring close monitoring and early follow-up.,0
+T2011,40,Pneumonia,7,226.24,5,8,Patient discharged with unstable vitals. History of pneumonia requiring close monitoring and early follow-up.,1
+T2012,91,Hypertension,14,240.5,0,1,Patient discharged with poor medication adherence. History of hypertension requiring close monitoring and early follow-up.,1
+T2013,48,Cancer,4,146.39,0,4,Patient discharged with good recovery. Recovery progressing well after treatment for cancer.,0
+T2014,36,COPD,8,192.85,6,14,Patient discharged with renal complications. History of copd requiring close monitoring and early follow-up.,1
+T2015,59,Cancer,8,317.46,4,2,Patient discharged with recurrent infection. History of cancer requiring close monitoring and early follow-up.,1
+T2016,92,Pneumonia,1,285.0,0,11,Patient discharged with elevated glucose. History of pneumonia requiring close monitoring and early follow-up.,0
+T2017,85,Stroke,14,284.94,2,14,Patient discharged with renal complications. History of stroke requiring close monitoring and early follow-up.,1
+T2018,78,Stroke,11,268.5,0,12,Patient discharged with shortness of breath. History of stroke requiring close monitoring and early follow-up.,1
+T2019,89,Asthma,9,169.84,7,11,Patient discharged with unstable vitals. History of asthma requiring close monitoring and early follow-up.,1
+T2020,72,Diabetes,6,82.96,4,8,Patient discharged with renal complications. History of diabetes requiring close monitoring and early follow-up.,1
+T2021,38,Asthma,7,147.37,3,16,Patient discharged with poor medication adherence. History of asthma requiring close monitoring and early follow-up.,1
+T2022,47,Diabetes,11,120.65,4,13,Patient discharged with renal complications. History of diabetes requiring close monitoring and early follow-up.,0
+T2023,71,Pneumonia,5,278.5,7,4,Patient discharged with renal complications. History of pneumonia requiring close monitoring and early follow-up.,1
+T2024,39,Asthma,2,217.78,5,7,Patient discharged with shortness of breath. History of asthma requiring close monitoring and early follow-up.,0
+T2025,65,Heart Failure,3,302.26,5,12,Patient discharged with elevated glucose. History of heart failure requiring close monitoring and early follow-up.,1
+T2026,69,Liver Disease,1,219.16,1,4,Patient discharged with elevated glucose. History of liver disease requiring close monitoring and early follow-up.,0
+T2027,92,Hypertension,1,222.81,5,2,Patient discharged with recurrent infection. History of hypertension requiring close monitoring and early follow-up.,1
+T2028,37,Hypertension,2,101.71,4,17,Patient discharged with recurrent infection. History of hypertension requiring close monitoring and early follow-up.,0
+T2029,46,Hypertension,12,281.47,4,8,Patient discharged with shortness of breath. History of hypertension requiring close monitoring and early follow-up.,1
+T2030,77,Diabetes,10,200.01,7,5,Patient discharged with unstable vitals. History of diabetes requiring close monitoring and early follow-up.,1
+T2031,38,Pneumonia,4,78.74,1,8,Patient discharged with stable condition. Recovery progressing well after treatment for pneumonia.,1
+T2032,91,Liver Disease,12,170.55,2,14,Patient discharged with poor medication adherence. History of liver disease requiring close monitoring and early follow-up.,0
+T2033,39,COPD,3,206.53,5,11,Patient discharged with poor medication adherence. History of copd requiring close monitoring and early follow-up.,1
+T2034,91,Cancer,7,294.7,3,15,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,1
+T2035,53,Hypertension,8,110.61,0,10,Patient discharged with follow-up scheduled. Recovery progressing well after treatment for hypertension.,0
+T2036,38,Hypertension,6,212.35,5,6,Patient discharged with unstable vitals. History of hypertension requiring close monitoring and early follow-up.,1
+T2037,47,Kidney Disease,2,296.83,7,6,Patient discharged with poor medication adherence. History of kidney disease requiring close monitoring and early follow-up.,1
+T2038,69,Liver Disease,5,266.42,4,1,Patient discharged with unstable vitals. History of liver disease requiring close monitoring and early follow-up.,0
+T2039,39,Diabetes,5,220.21,7,16,Patient discharged with recurrent infection. History of diabetes requiring close monitoring and early follow-up.,0
+T2040,81,Kidney Disease,10,226.12,2,2,Patient discharged with renal complications. History of kidney disease requiring close monitoring and early follow-up.,1
+T2041,55,Pneumonia,14,219.86,0,2,Patient discharged with unstable vitals. History of pneumonia requiring close monitoring and early follow-up.,1
+T2042,77,Stroke,3,242.14,4,2,Patient discharged with poor medication adherence. History of stroke requiring close monitoring and early follow-up.,0
+T2043,58,COPD,11,224.43,0,12,Patient discharged with recurrent infection. History of copd requiring close monitoring and early follow-up.,0
+T2044,63,Kidney Disease,10,241.64,3,10,Patient discharged with renal complications. History of kidney disease requiring close monitoring and early follow-up.,0
+T2045,43,Stroke,13,247.35,1,12,Patient discharged with renal complications. History of stroke requiring close monitoring and early follow-up.,0
+T2046,52,Kidney Disease,5,107.56,7,14,Patient discharged with unstable vitals. History of kidney disease requiring close monitoring and early follow-up.,1
+T2047,53,Diabetes,11,269.92,2,1,Patient discharged with renal complications. History of diabetes requiring close monitoring and early follow-up.,0
+T2048,65,Hypertension,10,167.89,3,12,Patient discharged with recurrent infection. History of hypertension requiring close monitoring and early follow-up.,1
+T2049,80,Stroke,12,76.26,7,6,Patient discharged with poor medication adherence. History of stroke requiring close monitoring and early follow-up.,0
+T2050,44,Liver Disease,10,309.1,6,14,Patient discharged with poor medication adherence. History of liver disease requiring close monitoring and early follow-up.,1
+T2051,45,Diabetes,12,85.58,7,9,Patient discharged with renal complications. History of diabetes requiring close monitoring and early follow-up.,1
+T2052,51,Stroke,5,125.08,0,2,Patient discharged with discharged safely. Recovery progressing well after treatment for stroke.,1
+T2053,74,Cancer,5,163.43,6,9,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,0
+T2054,31,COPD,4,112.23,7,6,Patient discharged with recurrent infection. History of copd requiring close monitoring and early follow-up.,1
+T2055,39,Liver Disease,11,91.06,5,9,Patient discharged with shortness of breath. History of liver disease requiring close monitoring and early follow-up.,1
+T2056,89,COPD,11,171.6,2,7,Patient discharged with shortness of breath. History of copd requiring close monitoring and early follow-up.,1
+T2057,79,Diabetes,14,84.67,0,11,Patient discharged with unstable vitals. History of diabetes requiring close monitoring and early follow-up.,1
+T2058,37,Liver Disease,13,101.38,4,13,Patient discharged with shortness of breath. History of liver disease requiring close monitoring and early follow-up.,1
+T2059,44,Asthma,3,279.65,5,7,Patient discharged with poor medication adherence. History of asthma requiring close monitoring and early follow-up.,1
+T2060,88,Cancer,8,144.56,0,2,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,1
+T2061,64,Asthma,14,109.45,5,4,Patient discharged with shortness of breath. History of asthma requiring close monitoring and early follow-up.,1
+T2062,55,Liver Disease,4,219.52,3,10,Patient discharged with shortness of breath. History of liver disease requiring close monitoring and early follow-up.,1
+T2063,52,Pneumonia,10,256.52,0,2,Patient discharged with recurrent infection. History of pneumonia requiring close monitoring and early follow-up.,1
+T2064,32,Liver Disease,9,72.86,2,1,Patient discharged with normal glucose levels. Recovery progressing well after treatment for liver disease.,0
+T2065,51,Diabetes,8,304.51,0,3,Patient discharged with shortness of breath. History of diabetes requiring close monitoring and early follow-up.,1
+T2066,36,Heart Failure,12,193.37,7,12,Patient discharged with renal complications. History of heart failure requiring close monitoring and early follow-up.,1
+T2067,89,Cancer,11,263.69,6,12,Patient discharged with renal complications. History of cancer requiring close monitoring and early follow-up.,1
+T2068,88,Pneumonia,13,244.68,5,11,Patient discharged with renal complications. History of pneumonia requiring close monitoring and early follow-up.,1
+T2069,49,Diabetes,5,102.02,2,15,Patient discharged with follow-up scheduled. Recovery progressing well after treatment for diabetes.,1
+T2070,48,Diabetes,8,178.31,5,9,Patient discharged with unstable vitals. History of diabetes requiring close monitoring and early follow-up.,0
+T2071,84,Hypertension,8,208.9,1,2,Patient discharged with unstable vitals. History of hypertension requiring close monitoring and early follow-up.,0
+T2072,61,Heart Failure,12,208.51,5,2,Patient discharged with recurrent infection. History of heart failure requiring close monitoring and early follow-up.,0
+T2073,47,Diabetes,8,114.37,4,16,Patient discharged with poor medication adherence. History of diabetes requiring close monitoring and early follow-up.,1
+T2074,77,Cancer,7,207.3,4,10,Patient discharged with shortness of breath. History of cancer requiring close monitoring and early follow-up.,1
+T2075,70,Asthma,3,151.91,5,11,Patient discharged with unstable vitals. History of asthma requiring close monitoring and early follow-up.,0
+T2076,89,Liver Disease,14,137.86,5,12,Patient discharged with elevated glucose. History of liver disease requiring close monitoring and early follow-up.,1
+T2077,77,Cancer,4,201.24,3,1,Patient discharged with shortness of breath. History of cancer requiring close monitoring and early follow-up.,1
+T2078,87,Kidney Disease,11,278.43,3,6,Patient discharged with shortness of breath. History of kidney disease requiring close monitoring and early follow-up.,0
+T2079,33,Hypertension,10,159.47,2,12,Patient discharged with poor medication adherence. History of hypertension requiring close monitoring and early follow-up.,1
+T2080,38,Heart Failure,2,109.27,0,17,Patient discharged with improved vitals. Recovery progressing well after treatment for heart failure.,0
+T2081,86,Kidney Disease,4,278.08,2,8,Patient discharged with shortness of breath. History of kidney disease requiring close monitoring and early follow-up.,0
+T2082,53,Hypertension,12,280.05,3,12,Patient discharged with poor medication adherence. History of hypertension requiring close monitoring and early follow-up.,0
+T2083,39,COPD,13,252.37,7,3,Patient discharged with shortness of breath. History of copd requiring close monitoring and early follow-up.,0
+T2084,70,COPD,3,165.08,6,18,Patient discharged with recurrent infection. History of copd requiring close monitoring and early follow-up.,1
+T2085,64,Heart Failure,2,275.34,5,8,Patient discharged with recurrent infection. History of heart failure requiring close monitoring and early follow-up.,1
+T2086,65,Stroke,10,126.31,6,9,Patient discharged with poor medication adherence. History of stroke requiring close monitoring and early follow-up.,0
+T2087,38,Liver Disease,3,135.43,1,12,Patient discharged with normal glucose levels. Recovery progressing well after treatment for liver disease.,0
+T2088,31,Cancer,11,239.9,7,3,Patient discharged with recurrent infection. History of cancer requiring close monitoring and early follow-up.,1
+T2089,91,Stroke,13,263.28,7,14,Patient discharged with poor medication adherence. History of stroke requiring close monitoring and early follow-up.,1
+T2090,67,COPD,10,138.97,6,12,Patient discharged with elevated glucose. History of copd requiring close monitoring and early follow-up.,1
+T2091,47,Diabetes,1,201.84,7,3,Patient discharged with elevated glucose. History of diabetes requiring close monitoring and early follow-up.,1
+T2092,91,Cancer,12,249.08,3,18,Patient discharged with renal complications. History of cancer requiring close monitoring and early follow-up.,0
+T2093,37,Heart Failure,11,203.27,2,6,Patient discharged with unstable vitals. History of heart failure requiring close monitoring and early follow-up.,0
+T2094,61,Pneumonia,1,197.61,4,15,Patient discharged with poor medication adherence. History of pneumonia requiring close monitoring and early follow-up.,1
+T2095,54,Stroke,2,234.13,5,15,Patient discharged with recurrent infection. History of stroke requiring close monitoring and early follow-up.,1
+T2096,73,Pneumonia,3,114.37,0,18,Patient discharged with elevated glucose. History of pneumonia requiring close monitoring and early follow-up.,1
+T2097,37,Cancer,14,149.17,4,8,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,1
+T2098,61,Stroke,3,277.82,1,18,Patient discharged with poor medication adherence. History of stroke requiring close monitoring and early follow-up.,1
+T2099,89,Stroke,8,127.12,2,1,Patient discharged with shortness of breath. History of stroke requiring close monitoring and early follow-up.,1
+T2100,38,COPD,11,315.58,2,3,Patient discharged with poor medication adherence. History of copd requiring close monitoring and early follow-up.,1
+T2101,38,Stroke,1,129.26,7,8,Patient discharged with unstable vitals. History of stroke requiring close monitoring and early follow-up.,0
+T2102,89,Pneumonia,4,111.21,1,16,Patient discharged with shortness of breath. History of pneumonia requiring close monitoring and early follow-up.,1
+T2103,30,COPD,14,114.63,6,13,Patient discharged with recurrent infection. History of copd requiring close monitoring and early follow-up.,1
+T2104,42,Pneumonia,2,154.15,4,6,Patient discharged with recurrent infection. History of pneumonia requiring close monitoring and early follow-up.,1
+T2105,44,Asthma,1,194.84,4,5,Patient discharged with recurrent infection. History of asthma requiring close monitoring and early follow-up.,0
+T2106,51,Liver Disease,9,121.5,1,12,Patient discharged with stable condition. Recovery progressing well after treatment for liver disease.,1
+T2107,55,Pneumonia,9,148.42,4,13,Patient discharged with renal complications. History of pneumonia requiring close monitoring and early follow-up.,1
+T2108,77,Pneumonia,2,153.85,5,18,Patient discharged with unstable vitals. History of pneumonia requiring close monitoring and early follow-up.,1
+T2109,50,Pneumonia,9,116.49,4,5,Patient discharged with poor medication adherence. History of pneumonia requiring close monitoring and early follow-up.,1
+T2110,56,Kidney Disease,12,218.9,2,1,Patient discharged with recurrent infection. History of kidney disease requiring close monitoring and early follow-up.,0
+T2111,41,Cancer,6,296.97,6,6,Patient discharged with recurrent infection. History of cancer requiring close monitoring and early follow-up.,1
+T2112,79,COPD,8,113.21,2,3,Patient discharged with poor medication adherence. History of copd requiring close monitoring and early follow-up.,1
+T2113,37,Heart Failure,3,287.68,3,14,Patient discharged with recurrent infection. History of heart failure requiring close monitoring and early follow-up.,1
+T2114,30,Pneumonia,5,192.2,0,18,Patient discharged with improved vitals. Recovery progressing well after treatment for pneumonia.,0
+T2115,83,Stroke,10,288.79,5,14,Patient discharged with renal complications. History of stroke requiring close monitoring and early follow-up.,1
+T2116,71,Hypertension,13,126.11,0,14,Patient discharged with renal complications. History of hypertension requiring close monitoring and early follow-up.,1
+T2117,57,Asthma,1,271.64,4,2,Patient discharged with renal complications. History of asthma requiring close monitoring and early follow-up.,1
+T2118,42,Diabetes,6,243.43,6,13,Patient discharged with shortness of breath. History of diabetes requiring close monitoring and early follow-up.,1
+T2119,67,Liver Disease,12,142.21,1,15,Patient discharged with poor medication adherence. History of liver disease requiring close monitoring and early follow-up.,1
+T2120,69,Heart Failure,13,291.33,6,2,Patient discharged with recurrent infection. History of heart failure requiring close monitoring and early follow-up.,1
+T2121,71,Diabetes,6,315.62,6,10,Patient discharged with elevated glucose. History of diabetes requiring close monitoring and early follow-up.,1
+T2122,77,Cancer,10,183.3,7,2,Patient discharged with recurrent infection. History of cancer requiring close monitoring and early follow-up.,1
+T2123,87,Cancer,5,227.29,0,9,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,1
+T2124,69,Cancer,12,286.56,5,8,Patient discharged with poor medication adherence. History of cancer requiring close monitoring and early follow-up.,1
+T2125,91,Cancer,12,278.78,7,2,Patient discharged with unstable vitals. History of cancer requiring close monitoring and early follow-up.,0
+T2126,67,Asthma,4,246.8,5,2,Patient discharged with poor medication adherence. History of asthma requiring close monitoring and early follow-up.,1
+T2127,41,COPD,5,147.21,4,17,Patient discharged with unstable vitals. History of copd requiring close monitoring and early follow-up.,0
+T2128,56,Liver Disease,3,75.74,5,9,Patient discharged with shortness of breath. History of liver disease requiring close monitoring and early follow-up.,0
+T2129,61,COPD,14,247.99,5,13,Patient discharged with recurrent infection. History of copd requiring close monitoring and early follow-up.,0
